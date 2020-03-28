@@ -139,6 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="homework.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="relation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="relation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
